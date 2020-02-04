@@ -10,7 +10,11 @@ For our ETL project we are looking at Steam (Online Gaming Community) and Kickst
 
 1. [Metacritic games stats 2011-2019]( https://www.kaggle.com/skateddu/metacritic-games-stats-20112019)
 
+All 8th generation of videogames
+
 2. [Kickstarter videogames released on Steam](https://www.kaggle.com/tonyplaysguitar/steam-spy-data-from-api-request)
+
+A dataset collected from Kickstarter and SteamSpy
 
 3. [Steam Store Games](https://www.kaggle.com/nikdavis/steam-store-games)
 
