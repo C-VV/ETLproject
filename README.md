@@ -46,5 +46,5 @@ the final database, tables/collections, and why this was chosen.
 
 ### Authors
 
-* **Joseph Patton** - **Cody Vild** - **Ahmed Abouhashem ** - **Jesse Kowalcic** 
+**Joseph Patton** - **Cody Vild** - **Ahmed Abouhashem** - **Jesse Kowalcic** 
 
