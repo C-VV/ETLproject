@@ -10,7 +10,7 @@
 For our ETL project we are looking at Steam (Online Gaming Community) and Kickstarter to see what happens to those indie games once they hit the market. 
 
 ---
-## *E*xtract:
+## Extract:
 
  We used 4 data sets which were a combination of CSV's and SQLite files found in [Original Steam Data set]( https://github.com/C-VV/ETLproject/blob/master/Original%20Steam%20Data%20Sets.zip "gh") or can be found on Kaggle under the following:
 
@@ -34,14 +34,18 @@ Collection of Steam's best selling games reviews.
 
 ---
 
-## *T*ransform:
+## Transform:
 
- what data cleaning or transformation was required.
+Used DB Browser to create CSV's.
+  
+Removed several unnecessary Columns from several of the CSV's.
+ 
 
 ---
 
-## *L*oad: 
-the final database, tables/collections, and why this was chosen.
+## Load: 
+
+We used [Postgres 4](https://github.com/C-VV/ETLproject/blob/master/ddl_export.sql) to store and combine the data
 
 - - -
 
