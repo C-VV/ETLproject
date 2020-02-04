@@ -2,8 +2,11 @@
 
 ## *Steaming* Towards Progress
 ![alt text](https://cdn.wccftech.com/wp-content/uploads/2018/06/steam-chat.jpg)
+
+---
 For our ETL project we are looking at Steam (Online Gaming Community) and Kickstarter to see what happens to those indie games once they hit the market. 
 
+---
 ###  **E**xtract:
 
  We used 4 data sets which were a combination of CSV's and SQLite files found in [Original Steam Data set]( https://github.com/C-VV/ETLproject/blob/master/Original%20Steam%20Data%20Sets.zip "gh") or can be found on Kaggle under the following:
@@ -26,11 +29,13 @@ Combined data of 27,000 games scraped from Steam and SteamSpy APIs
 Collection of Steam's best selling games reviews.
 
 
-
+---
 
 ## * **T**ransform:
 
  what data cleaning or transformation was required.
+
+---
 
 ## * **L**oad: 
 the final database, tables/collections, and why this was chosen.
